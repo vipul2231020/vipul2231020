@@ -2,7 +2,9 @@
 <h3 align="center">Transforming data into intelligent solutions | ML Developer from India</h3>
 
 <!-- Coding GIF Right Side -->
-<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/031bb7be-5988-4eb0-993f-daa35a9c1fb8" />
+<div align="center">
+  <img alt="coding" width="400" src="https://github.com/user-attachments/assets/031bb7be-5988-4eb0-993f-daa35a9c1fb8" />
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
@@ -34,14 +36,15 @@
 </p>
 
 <!-- LeetCode Badge -->
-<p align="left">
+<div align="center">
   <img src="https://leetcard.jacoblin.cool/vipul2810?theme=dark&ext=contest" alt="https://leetcode.com/u/vipul2810/" />
-</p>
-<p align="left">
+</div>
+
+<!-- LeetCode Badges -->
+<div align="center">
   <img src="https://img.shields.io/badge/LeetCode-100%20Days%20Badge-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-blue?style=for-the-badge&logo=leetcode" />
-
-</p>
+</div>
 ---
 
 ### 🛠️ Languages and Tools  
