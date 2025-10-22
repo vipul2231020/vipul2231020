@@ -69,9 +69,8 @@
 
 
 ---
-
+[![An image of @vipul2231020's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipul2231020)](https://holopin.io/@vipul2231020)
 ### 📊 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul2231020&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
-[![An image of @vipul2231020's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipul2231020)](https://holopin.io/@vipul2231020)
